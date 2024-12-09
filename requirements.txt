@@ -2,3 +2,4 @@ langchain-openai
 megaparse==0.0.48
 fastapi
 pydantic
+uvicorn
